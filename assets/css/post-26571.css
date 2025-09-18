@@ -197,7 +197,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
     --align-items: center;
     --container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
     --margin-top: 0px;
-    --margin-bottom: 0px;
+    --margin-bottom: 50px;
     --margin-left: 0px;
     --margin-right: 0px;
 }
@@ -252,6 +252,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
 
 .elementor-26571 .elementor-element.elementor-element-77add2a6 {
     text-align: center;
+    margin-top: -50px;
 }
 
 .elementor-26571 .elementor-element.elementor-element-77add2a6 .elementor-heading-title {
@@ -289,6 +290,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
     border-width: 1px 1px 1px 1px;
     border-color: #FFFFFF;
     border-radius: 30px 30px 30px 30px;
+    margin-bottom: 200px;
 }
 
 .elementor-26571 .elementor-element.elementor-element-3276dd48 .elementor-button:hover,
@@ -3856,7 +3858,9 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-587584fb {
         --gap: 0px 0px;
         --row-gap: 0px;
         --column-gap: 0px;
+        margin-bottom: 100px;
     }
+
 
     .elementor-26571 .elementor-element.elementor-element-77add2a6 .elementor-heading-title {
         font-size: 14px;
