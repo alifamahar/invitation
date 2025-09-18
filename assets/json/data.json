@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "data": {
+      "undangan": {
+        "nama_panggilan_inisial_1": "D",
+        "nama_panggilan_inisial_2": "A",
+        "nama_panggilan_kedua_mempelai": "Defrian & Alifa",
+        "nama_panggilan_1": "Defrian",
+        "nama_lengkap_1": "Defrian Dewantara",
+        "text_anak_dari_1_alt_1": "Putra ke-3 dari Bapak Firman & Ibu Dedeh",
+        "nama_panggilan_2": "Alifa",
+        "nama_lengkap_2": "Alifa Maha Rizka",
+        "text_anak_dari_2_alt_1": "Putri ke-1 dari Bapak Heri & Ibu Dewi",
+        "acara1": "Akad Nikah",
+        "acara2": "Resepsi",
+        "tgl_indo_1": "Sabtu, 08 Februari 2029",
+        "tgl_indo_2": "Sabtu, 08 Februari 2029",
+        "pukul_zonasi_1": "09:00 - 10:00 WIB",
+        "pukul_zonasi_2": "11:00 WIB - Selesai",
+        "lokasi_tempat_acara1_2": "Bintang Maruli Gedung Serba Guna",
+        "lokasi_tempat_acara2_2": "Bintang Maruli Gedung Serba Guna",
+        "love_story": "Kisah ini berawal...",
+        "live_streaming": "https://www.youtube.com/watch?v=contoh-video",
+        "link_google_maps1": "https://maps.app.goo.gl/wXVnp6e4bDDymhTQA",
+        "link_google_maps2": "https://maps.app.goo.gl/wXVnp6e4bDDymhTQA",
+        "tgl_countdown_1_alt": "Feb 8, 2029 09:00:00",
+        "tgl_countdown_2_alt": "Feb 8, 2029 11:00:00",
+        "nama_bank_1": "BRI",
+        "no_rek_1": "433201017546539",
+        "atas_nama_1": "Defrian Dewantara",
+        "nama_bank_2": "Mandiri",
+        "no_rek_2": "1730016387584",
+        "atas_nama_2": "Alifa Maha Rizka",
+        "nama_penerima": "Defrian dan Alifa",
+        "nomor_wa_konfirmasi": "6283877948159",
+        "nomor_wa_res": "6283877948159",
+        "alamat": "Jl. Pancawati RT.004 RW.001",
+        "alkir_weeding_gift": "<b>Defrian & Alifa</b><br>Jl. Pancawati<br>Telp: 0838-7794-8159"
+      }
+    }
+  }

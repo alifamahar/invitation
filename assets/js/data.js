@@ -1,0 +1,32 @@
+var undanganDataLokal = {
+    "nama_panggilan_inisial_1": "R",
+    "nama_panggilan_inisial_2": "F",
+    "nama_panggilan_kedua_mempelai": "Rangga & Fitri",
+    "nama_panggilan_1": "Rangga",
+    "nama_lengkap_1": "Rangga Fathurrahman",
+    "text_anak_dari_1": "Putra dari Bapak Sodikun & Ibu Suwarni",
+    "nama_panggilan_2": "Fitri",
+    "nama_lengkap_2": "Fitri Indriyani",
+    "text_anak_dari_2": "Putri dari Bapak Sutrisno & Ibu Sumiati",
+    "acara1": "Akad Nikah",
+    "acara2": "Resepsi",
+    "lokasi_tempat_acara1_2": "HOTEL TENTREM YOGYAKARTA",
+    "lokasi_tempat_acara2_2": "HOTEL TENTREM YOGYAKARTA",
+    "link_google_maps1": "https://maps.app.goo.gl/wJd13T4x7vY2uP4d8",
+    "link_google_maps2": "https://maps.app.goo.gl/wJd13T4x7vY2uP4d8",
+    "tgl_indo_1": "15 Juni 2025",
+    "tgl_indo_2": "15 Juni 2025",
+    "pukul_zonasi_1": "08:00 - 10:00 WIB",
+    "pukul_zonasi_2": "11:00 - 14:00 WIB",
+    "no_rek_1": "1234567890",
+    "nama_bank_1": "BCA",
+    "atas_nama_1": "Rangga Fathurrahman",
+    "no_rek_2": "0987654321",
+    "nama_bank_2": "Mandiri",
+    "atas_nama_2": "Fitri Indriyani",
+    "alamat": "Jl. Gajah Mada No. 1, Yogyakarta",
+    "live_streaming": "https://www.youtube.com/live",
+    "tgl_countdown_1_alt": "Jan 01 1970 0:00:00", // Ganti dengan tanggal yang benar
+    "tgl_countdown_2_alt": "Jan 01 1970 0:00:00"  // Ganti dengan tanggal yang benar
+    // Tambahkan semua data lain yang dibutuhkan
+};
