@@ -329,6 +329,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
     --column-gap: 0px;
     --overflow: hidden;
     --z-index: 1;
+    
 }
 
 .elementor-26571 .elementor-element.elementor-element-54c62ebc:not(.elementor-motion-effects-element-type-background),
@@ -346,7 +347,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
     --column-gap: 20px;
     --overflow: hidden;
     --margin-top: 0px;
-    --margin-bottom: 0px;
+    --margin-bottom: 50px;
     --margin-left: 0px;
     --margin-right: 0px;
     --padding-top: 50px;
