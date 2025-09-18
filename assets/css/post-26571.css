@@ -53,7 +53,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-16071ad5 {
 }
 
 .elementor-26571 .elementor-element.elementor-element-16071ad5.elementor-view-stacked .elementor-icon {
-    background-color: #0000006B;
+    background-color: #1142076b;
 }
 
 .elementor-26571 .elementor-element.elementor-element-16071ad5.elementor-view-framed .elementor-icon,
@@ -150,8 +150,8 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
 
 .elementor-26571 .elementor-element.elementor-element-2edea3ea:not(.elementor-motion-effects-element-type-background),
 .elementor-26571 .elementor-element.elementor-element-2edea3ea>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFFFFF00;
-    background-image: url("../images/bg.jpg");
+    background-color: #1142076b;
+    background-image: url("../images/22.jpg");
     background-position: center center;
     background-size: cover;
 }
@@ -162,7 +162,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
 .elementor-26571 .elementor-element.elementor-element-2edea3ea>.elementor-background-slideshow::before,
 .elementor-26571 .elementor-element.elementor-element-2edea3ea>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-26571 .elementor-element.elementor-element-2edea3ea>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
-    background-color: #0000006E;
+    background-color: #1142076b;
     --background-overlay: '';
 }
 
@@ -334,7 +334,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
 
 .elementor-26571 .elementor-element.elementor-element-54c62ebc:not(.elementor-motion-effects-element-type-background),
 .elementor-26571 .elementor-element.elementor-element-54c62ebc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F8F8F800;
+    background-color: #c9ffb800;
     background: url("https://pinangan.id/wp-content/uploads/2025/03/web2.jpg") 50% 50%;
     background-size: cover;
 }
@@ -473,7 +473,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-21b330e8 {
 
 .elementor-26571 .elementor-element.elementor-element-587584fb:not(.elementor-motion-effects-element-type-background),
 .elementor-26571 .elementor-element.elementor-element-587584fb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #FFFFFF;
+    background-color: #def8d4;
 }
 
 body:not(.rtl) .elementor-26571 .elementor-element.elementor-element-587584fb {
@@ -510,7 +510,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-587584fb {
 .elementor-26571 .elementor-element.elementor-element-563a1e8f>.elementor-background-slideshow::before,
 .elementor-26571 .elementor-element.elementor-element-563a1e8f>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-26571 .elementor-element.elementor-element-563a1e8f>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
-    background-color: #5E5E5E;
+    background-color: #123f1c;
     --background-overlay: '';
 }
 
@@ -1236,7 +1236,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-587584fb {
 
 .elementor-26571 .elementor-element.elementor-element-4106d79:not(.elementor-motion-effects-element-type-background),
 .elementor-26571 .elementor-element.elementor-element-4106d79>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #826569;
+    background-color: #6a8265;
     background-image: url("https://pinangan.id/wp-content/uploads/2025/03/web4.jpg");
     background-position: center center;
     background-size: cover;
@@ -1250,7 +1250,7 @@ body.rtl .elementor-26571 .elementor-element.elementor-element-587584fb {
 .elementor-26571 .elementor-element.elementor-element-4106d79>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     background-color: transparent;
     --background-overlay: '';
-    background-image: linear-gradient(180deg, #495A7400 0%, #353535 100%);
+    background-image: linear-gradient(180deg, #49744a00 0%, #92a48d 100%);
 }
 
 .elementor-26571 .elementor-element.elementor-element-1b5a9218 {
